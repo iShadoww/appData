@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appData</string>
+    <string name="etNombre1">Ingrese cualquier dato</string>
+    <string name="etNombre2">Datos Ingresados</string>
+    <string name="BotonEnviar">Enviar</string>
+    <string name="BotonRegresar">Regresar</string>
+</resources>
